@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container img {
+  width: 40%;
+}
+
+.bordes img {
+  border-radius: 6px;
+}
