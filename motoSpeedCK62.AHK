@@ -1,5 +1,4 @@
 SetCapsLockState, AlwaysOff
-#NoTrayIcon
 #SingleInstance Force
 
 
