@@ -14,5 +14,5 @@ Compra el teclado en el siguiente [link](https://www.mercadolibre.com.mx/teclado
 # GIF (Super importante)
 
 <div align="center">
-    <img align="center" src="https://c.tenor.com/y-WS11H30IAAAAAC/minato-aqua-minato-akua.gif">
+    <img align="center" src="https://c.tenor.com/ztlNAqw_00EAAAAM/%E5%B8%B8%E9%97%87%E3%83%88%E3%83%AF-%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96.gif">
 </div>
